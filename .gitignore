@@ -1,0 +1,29 @@
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency directories (if you ever add npm/yarn)
+node_modules/
+bower_components/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Build artifacts (in case you build or minify files later)
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Environment files (if you ever add any)
+.env
+.env.*
+

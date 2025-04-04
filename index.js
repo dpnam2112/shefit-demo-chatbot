@@ -8,7 +8,7 @@ function startChat() {
             * @param config.bot_id - Agent ID.
             */
             config: {
-              bot_id: '7486049271679500306',
+              bot_id: '7485221564041216008',
             },
             componentProps: {
               title: 'CyHome',
@@ -33,11 +33,10 @@ function startChat() {
             }, 
             ui: { 
               base: { 
-                icon: 'https://play-lh.googleusercontent.com/uRB5JlZPQclneorj-nj7yr9cv33n8_-Ore7ehkYLz9Qpd2wAaO48npJS67FBmL1kawpW=w480-h960-rw', 
                 lang: 'vi',
               },
               chatBot: {
-                title: 'CyHome',
+                title: 'Shefit',
                 uploadable: false,
               }, 
               /**
